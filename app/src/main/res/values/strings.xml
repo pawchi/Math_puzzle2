@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math_puzzle2</string>
+    <string name="contentDescription">firstImage</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="Button1">Button_one</string>
+    <string name="Button3">Button_three</string>
+</resources>
