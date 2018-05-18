@@ -1,7 +1,17 @@
 <resources>
+
     <string name="app_name">Math_puzzle2</string>
     <string name="contentDescription">firstImage</string>
+    <string name="imageView2">ImageView2</string>
+    <string name="imageView3">ImageView3</string>
     <string name="title_activity_2">Activity2</string>
-    <string name="Button1">Button_one</string>
+    <string name="Button1_1">But_one</string>
+    <string name="Button1_2">But_two</string>
+    <string name="Button1_3">But_three</string>
     <string name="Button3">Button_three</string>
+    <string name="textView1">Location</string>
+    <string name="editText1">Himalayas</string>
+    <string name="editText2">Name</string>
+    <string name="contentDescription2">Star</string>
+    <string name="textVeiw2">Date</string>
 </resources>
